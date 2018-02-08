@@ -1,4 +1,4 @@
 file { '/tmp/hello.txt':
-  content => 'Hello world!",
+  content => "Hello world!\n",
 }
   
